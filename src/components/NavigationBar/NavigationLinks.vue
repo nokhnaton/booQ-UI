@@ -33,6 +33,7 @@ const items: Item[] = [
     path: '/items/property'
   },
   { name: 'Register Item', icon: 'mdi:plus-box', path: '/items/new' },
+  { name: 'UserList', icon: 'mdi:help-box', path: '/userList' },
   { name: 'About', icon: 'mdi:help-box', path: '/about' }
 ]
 </script>
